@@ -1,6 +1,8 @@
 # GDUFGradePointStatistics
 广东金融学院个人学分汇总
 
+**本项目的汇总结果不能保证完全正确，仅提供辅助参考**
+
 1. 复制 gradePointStatistics.js 的所有代码
 2. 使用 Firefox 或 Chrome 浏览器打开教务系统的个人成绩页面
 3. 同时按 Ctrl + Shift + I 调出控制台
